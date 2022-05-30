@@ -1,1 +1,1 @@
-web: $(composer config bin-dir)/heroku-php-apache2
+composer require symfony/apache-pack
