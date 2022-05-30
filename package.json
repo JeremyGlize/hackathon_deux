@@ -20,8 +20,7 @@
         "dev-server": "encore dev-server",
         "dev": "encore dev",
         "watch": "encore dev --watch",
-        "build": "encore production --progress",
-        "heroku-postbuild" : "node_modules/.bin/encore production"
+        "build": "encore production --progress"
     },
     "dependencies": {
         "@ckeditor/ckeditor5-basic-styles": "^34.0.0",
