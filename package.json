@@ -36,5 +36,9 @@
         "sass": "^1.51.0",
         "sass-loader": "^12.6.0",
         "style-loader": "^3.3.1"
+    },
+    "engines": {
+        "node": "16.x",
+        "npm" : "8.x"
     }
 }
